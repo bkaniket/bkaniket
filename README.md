@@ -4,7 +4,7 @@
 - 📫 How to reach me **aniketkhandagale72@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> [Instagram](https://www.instagram.com/anit3k)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
