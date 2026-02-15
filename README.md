@@ -34,21 +34,12 @@
 
 </div>
 
-# Support The Mission
+# SUPPORT ME
 <div align="center">
 <a href="https://buymeacoffee.com/anit3k">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/>
 </a>
-
 </div>
-
----
-
 <div align="center">
-
-<h2>BYE</h2>
-<h3>BYE</h3>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9933&height=120&section=footer"/>
-
 </div>
