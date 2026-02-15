@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=FF9933&center=true&vCenter=true&width=800&lines=Yo+it's+Aniket+Khandagale;Cybersecurity+%F0%9F%94%90+%7C+Indian+Defence+%F0%9F%87%AE%F0%9F%87%B3;MERN+Stack+Warrior+%F0%9F%92%BB;Future+Naval+Officer+%F0%9F%9B%A1%EF%B8%8F" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=FF9933&center=true&vCenter=true&width=800&lines=Yo+it's+Aniket+Khandagale;Cybersecurity+%F0%9F%94%90+%7C+Indian+Defence+%F0%9F%87%AE%F0%9F%87%B3;MERN+Stack+%F0%9F%92%BB;" />
 
 # 🇮🇳 ANIKET KHANDAGALE  
 ### Cybersecurity Specialist | Defence Aspirant | Full Stack Developer  
@@ -24,7 +24,10 @@
 <img src="https://img.shields.io/badge/10%20Para-SF-ff0000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NSG-Black%20Cats-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DRDO-Research%20Driven-ff6b35?style=for-the-badge"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anit3k&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF9933&icon_color=00D4AA"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anit3k&theme=radical&hide_border=true&background=0D1117&fire_add=🔥&currStreakLabel=⚔️+Active+Battle"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anit3k&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF9933"/>
 </div>
 
 ---
@@ -88,7 +91,26 @@
 
 ## 🇮🇳 JAI HIND  
 ### ⚔️ SERVICE BEFORE SELF | NATION ABOVE ALL  
+<div align="center" style="background: linear-gradient(45deg, #000000 0%, #1a1a2e 50%, #16213e 100%); padding: 30px; border-radius: 25px; border: 3px solid #FF9933; margin: 30px 0;">
 
+<div style="animation: glow 2s ease-in-out infinite alternate;">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=80&text=🏎️%20SKYLINE%20R34%20%F0%9F%9B%A1%20FAST%20%26%20FURIOUS" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=003366&height=80&text=⚓%20INDIAN%20NAVY%20SSC" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF4444&height=80&text=🪂%2010%20PARA%20SF" />
+</div>
+
+<style>
+@keyframes glow {
+  from { box-shadow: 0 0 20px #FF9933; }
+  to { box-shadow: 0 0 40px #FF9933, 0 0 60px #FF9933; }
+}
+</style>
+
+<h2 style="color: #FF9933; font-family: 'Orbitron', monospace; text-shadow: 2px 2px 4px #000;">🇮🇳 **JAI HIND** ⚔️</h2>
+
+<p style="color: #00D4AA; font-size: 18px; font-weight: bold;">
+**SERVICE BEFORE SELF** | **NATION ABOVE ALL** | **BHARAT MATHA KI JAI** 🇮🇳
+</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9933&height=120&section=footer"/>
 
 </div>
