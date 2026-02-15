@@ -13,15 +13,6 @@
 </div>
 
 ---
-
-# ABOUT THE OPERATOR
-
-<div align="center">
- B.Tech CSE  
-</div>
-
----
-
 # TECH ARSENAL
 
 <div align="center">
@@ -43,35 +34,10 @@
 </a>
 
 </div>
-
----
 ---
 
 <h2 align="center">🚀 Support The Mission 🇮🇳</h2>
-
 <div align="center">
-
-<!-- 🇮🇳 ANIMATED INDIA FLAG (SVG WAVE) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF9933,FFFFFF,138808&height=120&section=header&text=JAI%20HIND&fontColor=000000&fontSize=30&animation=fadeIn" />
-
-<br><br>
-
-<!-- 🚗 R34 WITH GLOWING HEADLIGHT EFFECT (SVG OVERLAY) -->
-<div align="center">
-
-<img src="https://i.imgur.com/9V6Q8ZK.png" width="500"/>
-
-<img src="https://svgshare.com/i/15rA.svg" width="500"/>
-
-</div>
-
-<br><br>
-
-<!-- 🪙 ROTATING BITCOIN (SVG ANIMATION) -->
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="120"/>
-
-<br><br>
-
 <a href="https://buymeacoffee.com/anit3k">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/>
 </a>
