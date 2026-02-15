@@ -36,7 +36,7 @@
 </div>
 ---
 
-<h2 align="center">🚀 Support The Mission 🇮🇳</h2>
+# Support The Mission
 <div align="center">
 <a href="https://buymeacoffee.com/anit3k">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/>
@@ -48,10 +48,23 @@
 
 <div align="center">
 
-<h2>🇮🇳 JAI HIND</h2>
-<h3>⚔️ SERVICE BEFORE SELF | NATION ABOVE ALL</h3>
+<h2>BYE</h2>
+<h3>BYE</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9933&height=120&section=footer"/>
 
 </div>
+<div align="center">
 
+<!-- 🔥 WORKING ANIMATED ELEMENTS 🔥 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF9933&height=120&text=JAI+HIND" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D4AA&height=60&text=NATION+FIRST" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=003366&height=60&text=SERVICE+BEFORE+SELF" />
+
+<h2 style="color:#FF9933">🇮🇳 **JAI HIND** ⚔️</h2>
+<h3 style="color:#00D4AA">**SERVICE BEFORE SELF | NATION ABOVE ALL**</h3>
+
+<!-- WORKING FLAG GIF -->
+<img src="https://media.giphy.com/media/26ufnwz3wDUllvERK/giphy.gif" width="200" alt="India Flag"/>
+
+</div>
