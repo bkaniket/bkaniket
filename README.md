@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=FF9933&center=true&vCenter=true&width=800&lines=Yo+it's+Aniket+Khandagale;Cybersecurity+%F0%9F%94%90+%7C+Indian+Defence+%F0%9F%87%AE%F0%9F%87%B3;MERN+Stack+%F0%9F%92%BB;" />
 
-# 🇮🇳 ANIKET KHANDAGALE  
+# ANIKET KHANDAGALE  
 ### Cybersecurity Specialist | Defence Aspirant | Full Stack Developer  
 
 <img src="https://img.shields.io/badge/Nation-First-FF9933?style=for-the-badge&logo=india&logoColor=white"/>
@@ -12,7 +12,6 @@
 
 </div>
 
----
 # TECH ARSENAL
 
 <div align="center">
@@ -21,9 +20,9 @@
 
 </div>
 
----
 
-# 🌐 CONNECT WITH THE COMMAND
+
+#  CONNECT WITH ME
 
 <div align="center">
 
@@ -34,7 +33,6 @@
 </a>
 
 </div>
----
 
 # Support The Mission
 <div align="center">
@@ -52,19 +50,5 @@
 <h3>BYE</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9933&height=120&section=footer"/>
-
-</div>
-<div align="center">
-
-<!-- 🔥 WORKING ANIMATED ELEMENTS 🔥 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF9933&height=120&text=JAI+HIND" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D4AA&height=60&text=NATION+FIRST" />
-<img src="https://capsule-render.vercel.app/api?type=wave&color=003366&height=60&text=SERVICE+BEFORE+SELF" />
-
-<h2 style="color:#FF9933">🇮🇳 **JAI HIND** ⚔️</h2>
-<h3 style="color:#00D4AA">**SERVICE BEFORE SELF | NATION ABOVE ALL**</h3>
-
-<!-- WORKING FLAG GIF -->
-<img src="https://media.giphy.com/media/26ufnwz3wDUllvERK/giphy.gif" width="200" alt="India Flag"/>
 
 </div>
